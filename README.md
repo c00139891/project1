@@ -1,12 +1,9 @@
 # project1
 
-Purpose: Role a multi sided dice.
+What sided die should be used?
 
-Rules: randomly pick a number between 1 and 6. Would you like to role again?
+dice_sides passed to dice_roll function
 
-concepts explored:
+Do you want to roll?
 
-    1. Randomness
-    2. Integers
-    3. Print
-    4. While loops
+Random number between 1 and dice_sides is returned 
